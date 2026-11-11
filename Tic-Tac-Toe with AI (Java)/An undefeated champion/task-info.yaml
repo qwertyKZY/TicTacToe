@@ -1,0 +1,59 @@
+type: edu
+files:
+  - name: src/tictactoe/Main.java
+    visible: true
+    learner_created: false
+  - name: test/utils/CellState.java
+    visible: true
+    learner_created: false
+  - name: test/utils/GameState.java
+    visible: true
+    learner_created: false
+  - name: test/utils/Grid.java
+    visible: true
+    learner_created: false
+  - name: test/utils/Minimax.java
+    visible: true
+    learner_created: false
+  - name: test/utils/Position.java
+    visible: true
+    learner_created: false
+  - name: test/TicTacToeTest.java
+    visible: true
+    learner_created: false
+  - name: src/tictactoe/Field.java
+    visible: true
+    learner_created: true
+  - name: src/tictactoe/MediumAi.java
+    visible: true
+    learner_created: true
+  - name: src/tictactoe/HumanPlayer.java
+    visible: true
+    learner_created: true
+  - name: src/tictactoe/CoordinateResult.java
+    visible: true
+    learner_created: true
+  - name: src/tictactoe/AiPlayer.java
+    visible: true
+    learner_created: true
+  - name: src/tictactoe/Player.java
+    visible: true
+    learner_created: true
+  - name: src/tictactoe/EasyAi.java
+    visible: true
+    learner_created: true
+  - name: src/tictactoe/Coordinates.java
+    visible: true
+    learner_created: true
+  - name: src/tictactoe/GameResult.java
+    visible: true
+    learner_created: true
+  - name: src/tictactoe/HardAi.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/81/stages/451/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 11 Nov 2026 11:13:26 UTC"
+record: -1
